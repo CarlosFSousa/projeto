@@ -1,0 +1,14 @@
+[
+  {
+    "data": "15/1/2023",
+    "aeroporto_origem": "Sa Carneiro",
+    "aeroporto_destino": "Joao Paulo II",
+    "duracao": 2
+  },
+  {
+    "data": "11/10/2023",
+    "aeroporto_origem": "Humberto Delgado",
+    "aeroporto_destino": "Joao Paulo II",
+    "duracao": 2
+  }
+]

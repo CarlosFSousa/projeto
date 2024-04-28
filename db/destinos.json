@@ -1,0 +1,32 @@
+[
+  {
+    "designacao": "",
+    "pais": "Portugal",
+    "cidade": "Lisboa",
+    "coordenadas": {
+      "latitude": 	38.736946,
+      "longitude": -9.142685
+    },
+    "informacoes_url": "https://www.test.pt"
+  },
+  {
+    "designacao": "",
+    "pais": "Espanha",
+    "cidade": "Madrid",
+    "coordenadas": {
+      "latitude":   40.41675150,
+      "longitude": -3.70383220
+    },
+    "informacoes_url": "https://www.test.es"
+  },
+  {
+    "designacao": "",
+    "pais": "Portugal",
+    "cidade": "OPorto",
+    "coordenadas": {
+      "latitude":   41.14961,
+      "longitude": -8.61099
+    },
+    "informacoes_url": "https://www.test.pt"
+  }
+]
