@@ -1,6 +1,6 @@
 [
   {
-    "designacao": "",
+    "designacao": "Capital",
     "pais": "Portugal",
     "cidade": "Lisboa",
     "coordenadas": {
@@ -10,7 +10,7 @@
     "informacoes_url": "https://www.test.pt"
   },
   {
-    "designacao": "",
+    "designacao": "Capital",
     "pais": "Espanha",
     "cidade": "Madrid",
     "coordenadas": {
@@ -20,12 +20,52 @@
     "informacoes_url": "https://www.test.es"
   },
   {
-    "designacao": "",
+    "designacao": "Segunda Maior Cidade",
     "pais": "Portugal",
     "cidade": "OPorto",
     "coordenadas": {
       "latitude":   41.14961,
       "longitude": -8.61099
+    },
+    "informacoes_url": "https://www.test.pt"
+  },
+   {
+    "designacao": "Acores",
+    "pais": "Portugal",
+    "cidade": "Ponta Delgada",
+    "coordenadas": {
+      "latitude":   37.73333,
+      "longitude": -25.66667
+    },
+    "informacoes_url": "https://www.test.pt"
+  },
+  {
+    "designacao": "Sul de Portugal",
+    "pais": "Portugal",
+    "cidade": "Faro",
+    "coordenadas": {
+      "latitude":   37.01937,
+      "longitude": -7.93223
+    },
+    "informacoes_url": "https://www.test.pt"
+  },
+   {
+    "designacao": "Sul de Portugal",
+    "pais": "Portugal",
+    "cidade": "Lagos",
+    "coordenadas": {
+      "latitude":   37.01937,
+      "longitude": -7.93223
+    },
+    "informacoes_url": "https://www.test.pt"
+  },
+  {
+    "designacao": "Centro de Portugal",
+    "pais": "Portugal",
+    "cidade": "Beja",
+    "coordenadas": {
+      "latitude":   37.01937,
+      "longitude": -7.93223
     },
     "informacoes_url": "https://www.test.pt"
   }

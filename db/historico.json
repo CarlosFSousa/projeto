@@ -1,5 +1,52 @@
-{
-    "cidade": "São Paulo",
-    "pais": "Brasil"
-}
-
+[
+  {
+    "cidade": "sao paulo",
+    "pais": null,
+    "proximidade_aeroporto": true
+  },
+  {
+    "cidade": null,
+    "pais": "portugal",
+    "proximidade_aeroportos": false
+  },
+  {
+    "cidade": null,
+    "pais": "portugal",
+    "proximidade_aeroportos": false
+  },
+  {
+    "cidade": null,
+    "pais": "espanha",
+    "proximidade_aeroportos": false
+  },
+  {
+    "cidade": null,
+    "pais": "portugal",
+    "proximidade_aeroportos": false
+  },
+  {
+    "cidade": null,
+    "pais": "mexico",
+    "proximidade_aeroportos": false
+  },
+  {
+    "cidade": null,
+    "pais": "espanha",
+    "proximidade_aeroportos": false
+  },
+  {
+    "cidade": null,
+    "pais": "portugal",
+    "proximidade_aeroportos": false
+  },
+  {
+    "cidade": null,
+    "pais": "holanda",
+    "proximidade_aeroportos": false
+  },
+  {
+    "cidade": "beja",
+    "pais": null,
+    "proximidade_aeroportos": false
+  }
+]
